@@ -1,9 +1,7 @@
 Farm House Website
-A simple and responsive Farm House website built using HTML and CSS. This project showcases a modern farmhouse landing page with sections such as home, about, services, gallery, and contact.
+A simple and responsive Farm House website built using HTML and CSS. This project showcases a modern farmhouse landing page with sections such as home, about, services, About us, and contact us.
 
 Features
-
-Responsive design
 Clean and modern UI
 Navigation bar
 About section
